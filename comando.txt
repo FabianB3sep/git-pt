@@ -2,3 +2,7 @@ git init (inicializa una carpeta como repositorio local)
 git add NombreArchivo o git add . (me agrega los archivos al repositorio)
 git comit -m "mensaje"
 ligar con un repositorio remoto git remote add origin https://github.com/FabianB3sep/git-pt.git
+git push -u origin master/main
+
+para subir archivos:
+2, 3, 5
